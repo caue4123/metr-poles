@@ -1,4 +1,4 @@
-#  Análise Forense: TerraVision vs. Google Earth — Mapeamento Urbano e Metrópoles
+#  Mapeamento Urbano e Metrópoles
 
 **Como transformar grandes volumes de dados geográficos em uma representação de cidade interativa e tridimensional?**
 
