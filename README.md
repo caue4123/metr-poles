@@ -1,4 +1,4 @@
-# 🏙️ Análise Forense: TerraVision vs. Google Earth — Mapeamento Urbano e Metrópoles
+#  Análise Forense: TerraVision vs. Google Earth — Mapeamento Urbano e Metrópoles
 
 **Como transformar grandes volumes de dados geográficos em uma representação de cidade interativa e tridimensional?**
 
@@ -8,18 +8,15 @@ A série apresenta a disputa entre a empresa alemã ART+COM, criadora do TerraVi
 
 ---
 
-### 📋 Identificação do Projeto
+###  Identificação do Projeto
 
-- **Estudante:** Cauê de Mattos Amaral
-- **Turma:** 3°D – Desenvolvimento de Sistemas (Matutino)
-- **Instituição:** Colégio Estadual Rodolpho Zaninelli
-- **Disciplinas:** Computação Gráfica e Ciência de Dados
-- **Professora:** Angélica Neckel
-- **Tema individual:** Mapeamento Urbano e Metrópoles (Alta Densidade de Edificações)
+- **nome** Cauê de Mattos Amaral
+- **Turma:** 3°D –
+- **Tema:** Mapeamento Urbano e Metrópoles (Alta Densidade de Edificações)
 
 ---
 
-### 📸 Referência Visual: O Desafio de Representar Grandes Cidades
+###  Referência Visual: O Desafio de Representar Grandes Cidades
 
 Uma das referências utilizadas no projeto foi a região central da Estação de Tóquio, no Japão (Tokyo Station – Chuoguchi).
 
@@ -68,7 +65,7 @@ A ideia é permitir que o usuário observe a cidade de diferentes ângulos e alt
 
 ---
 
-### 🚀 Como Executar o Simulador
+### Como Executar o Simulador
 
 Para testar o projeto, você precisa ter o Python 3 instalado no computador.
 
