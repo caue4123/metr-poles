@@ -17,6 +17,8 @@ A série apresenta a disputa entre a empresa alemã ART+COM, criadora do TerraVi
 ---
 
 ###  Referência Visual: O Desafio de Representar Grandes Cidades
+![Uploading Captura de tela 2026-11-16 102450.png…]()
+
 
 Uma das referências utilizadas no projeto foi a região central da Estação de Tóquio, no Japão (Tokyo Station – Chuoguchi).
 
