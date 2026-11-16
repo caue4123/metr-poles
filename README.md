@@ -11,7 +11,7 @@ A série apresenta a disputa entre a empresa alemã ART+COM, criadora do TerraVi
 ###  Identificação do Projeto
 
 - **nome** Cauê de Mattos Amaral
-- **Turma:** 3°D –
+- **Turma:** 3°D 
 - **Tema:** Mapeamento Urbano e Metrópoles (Alta Densidade de Edificações)
 
 ---
@@ -26,7 +26,7 @@ O desafio está justamente em representar tudo isso sem comprometer o desempenho
 
 ---
 
-### 🧠 Relação entre Ciência de Dados, Computação Gráfica e TerraVision
+###  Relação entre Ciência de Dados, Computação Gráfica e TerraVision
 
 Durante o desenvolvimento do simulador, utilizando Python no arquivo `script.py`, trabalhei com alguns conceitos apresentados na série e apliquei esses conhecimentos na construção do ambiente urbano.
 
