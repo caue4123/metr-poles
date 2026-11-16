@@ -1,4 +1,4 @@
-# 🏙️ Análise Forense: TerraVision vs. Google Earth — Mapeamento Urbano e Metrópoles
+#  Análise Forense: TerraVision vs. Google Earth — Mapeamento Urbano e Metrópoles
 
 **Como transformar grandes volumes de dados geográficos em uma representação de cidade interativa e tridimensional?**
 
@@ -8,18 +8,15 @@ A série apresenta a disputa entre a empresa alemã ART+COM, criadora do TerraVi
 
 ---
 
-### 📋 Identificação do Projeto
+###  Identificação do Projeto
 
 - **Estudante:** Cauê de Mattos Amaral
-- **Turma:** 3°D – Desenvolvimento de Sistemas (Matutino)
-- **Instituição:** Colégio Estadual Rodolpho Zaninelli
-- **Disciplinas:** Computação Gráfica e Ciência de Dados
-- **Professora:** Angélica Neckel
-- **Tema individual:** Mapeamento Urbano e Metrópoles (Alta Densidade de Edificações)
+- **Turma:** 3°D 
+- **Tema:** Mapeamento Urbano e Metrópoles (Alta Densidade de Edificações)
 
 ---
 
-### 📸 Referência Visual: Mapeamento Urbano em Tóquio
+###  Referência Visual: Mapeamento Urbano em Tóquio
 
 A imagem abaixo mostra uma avenida na região central de Tóquio, próxima à Tokyo Station (Chuoguchi). Ela foi escolhida como referência porque apresenta características comuns de uma área metropolitana bastante adensada: edifícios altos, fachadas próximas umas das outras, vias movimentadas e árvores distribuídas pelas calçadas.
 
@@ -31,7 +28,7 @@ O desafio é representar essas estruturas em um ambiente tridimensional sem exig
 
 ---
 
-### 🧠 Relação entre Ciência de Dados, Computação Gráfica e TerraVision
+###  Relação entre Ciência de Dados, Computação Gráfica e TerraVision
 
 Durante o desenvolvimento do simulador, utilizando Python no arquivo `script.py`, trabalhei com alguns conceitos apresentados na série e apliquei esses conhecimentos na construção do ambiente urbano.
 
@@ -70,7 +67,7 @@ A ideia é permitir que o usuário observe a cidade de diferentes ângulos e alt
 
 ---
 
-### 🚀 Como Executar o Simulador
+###  Como Executar o Simulador
 
 Para testar o projeto, você precisa ter o Python 3 instalado no computador.
 
