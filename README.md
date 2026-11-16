@@ -8,7 +8,7 @@ A série apresenta a disputa entre a empresa alemã ART+COM, criadora do TerraVi
 
 ---
 
-###  Identificação do Projeto
+###  Identificação do Projeto 
 
 - **Estudante:** Cauê de Mattos Amaral
 - **Turma:** 3°D 
